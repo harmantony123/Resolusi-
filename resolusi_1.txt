@@ -5,3 +5,4 @@
     d. nodeJS
     e. reactJS
     f. Figma
+2. Membuat website Walang
