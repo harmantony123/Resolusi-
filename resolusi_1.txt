@@ -1,8 +1,7 @@
 1. konsisten belajar mengenai programming
-    a. HTML
-    b. CSS
-    c. Javascript
-    d. nodeJS
-    e. reactJS
-    f. Figma
+    a. CSS
+    b. Javascript
+    c. nodeJS
+    d. reactJS
+    e. Figma
 2. Membuat website Walang
