@@ -1,0 +1,7 @@
+1. konsisten belajar mengenai programming
+    a. HTML
+    b. CSS
+    c. Javascript
+    d. nodeJS
+    e. reactJS
+    f. Figma
