@@ -1,0 +1,4 @@
+1. javascript terdiri dari :
+  - regular expression
+  - EcmaScript6
+  - bootsrap
