@@ -3,3 +3,4 @@
   - EcmaScript6
   - bootsrap
   - belajar mengenai ReactJS
+  - structur Data
