@@ -1,6 +1,8 @@
 1. javascript terdiri dari :
   - regular expression
   - EcmaScript6
+     ^ filter, map, reduce
+     ^ async await
   - bootsrap
   - belajar mengenai ReactJS
-  - structur Data
+
