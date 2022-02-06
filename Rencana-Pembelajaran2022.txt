@@ -2,3 +2,4 @@
   - regular expression
   - EcmaScript6
   - bootsrap
+  - belajar mengenai ReactJS
