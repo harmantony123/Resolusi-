@@ -3,6 +3,7 @@
   - EcmaScript6
     * arrow function
     * destructuring
+    * fetch API
   - bootsrap
   - belajar mengenai ReactJS
   - structur Data
